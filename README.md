@@ -2,14 +2,17 @@ Quizzly is an AI-powered platform designed to create curated quizzes from provid
 
 Key Features:
 1. AI-Powered Quiz Generation
+   
 Generate tailored quizzes from uploaded PDFs.
 Create quizzes dynamically from random textual inputs.
 
 2. Tutorbots
+   
 Provide real-time feedback by correcting wrong answers instantly.
 Enhance understanding with detailed explanations for corrected answers.
 
 3. Authentication System
+   
 Secure and user-friendly login and sign-up functionality.
 Role-based access for students, educators, and admins.
 
