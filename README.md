@@ -26,8 +26,8 @@ Track quiz performance, progress, and insights for both users and educators.
 Integration with Learning Platforms:
 Seamless connectivity with LMS systems for broader educational use.
 
-Collaborative Effort
-Quizzer is part of our MLSA AI Project, emphasizing teamwork and innovation. It demonstrates how AI can revolutionize education by fostering active learning and inclusivity.
+
+Quizzly is part of our MLSA AI Project, emphasizing teamwork and innovation. It demonstrates how AI can revolutionize education by fostering active learning and inclusivity.
 
 Demo & Pitch Deck
 Explore our pitch deck and experience Quizzer in action through the demo link provided: [(https://drive.google.com/drive/folders/1bmKEOCat3q1pkQXcpZbQBiaS_MZo0l1y?usp=drive_link)](https://drive.google.com/drive/folders/1bmKEOCat3q1pkQXcpZbQBiaS_MZo0l1y?usp=drive_link)
