@@ -13,7 +13,7 @@ Enhance understanding with detailed explanations for corrected answers.
 Secure and user-friendly login and sign-up functionality.
 Role-based access for students, educators, and admins.
 
-4. In Development:
+In Development:
 Multilingual Capabilities:
 Support quizzes and tutor interactions in multiple languages to reach a global audience.
 
