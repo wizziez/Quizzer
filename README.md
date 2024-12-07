@@ -16,12 +16,16 @@ Role-based access for students, educators, and admins.
 4. In Development:
 Multilingual Capabilities:
 Support quizzes and tutor interactions in multiple languages to reach a global audience.
+
 Gamified Learning:
 Introduce leaderboards, rewards, and badges to boost engagement.
+
 Analytics Dashboard:
 Track quiz performance, progress, and insights for both users and educators.
+
 Integration with Learning Platforms:
 Seamless connectivity with LMS systems for broader educational use.
+
 Collaborative Effort
 Quizzer is part of our MLSA AI Project, emphasizing teamwork and innovation. It demonstrates how AI can revolutionize education by fostering active learning and inclusivity.
 
