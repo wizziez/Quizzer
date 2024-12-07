@@ -1,21 +1,29 @@
-Quizzer is an AI-powered platform designed to create curated quizzes from provided PDFs and random text inputs. It aims to simplify the process of quiz generation and learning with additional interactive features.
+Quizzer is an AI-powered platform designed to create curated quizzes from provided PDFs and random text inputs. It simplifies quiz generation and enhances learning through innovative and interactive features.
 
 Key Features:
+1. AI-Powered Quiz Generation
+Generate tailored quizzes from uploaded PDFs.
+Create quizzes dynamically from random textual inputs.
 
-AI-Powered Quiz Generation:
-Generate quizzes from uploaded PDFs.
-Create quizzes from random textual inputs.
+2. Tutorbots
+Provide real-time feedback by correcting wrong answers instantly.
+Enhance understanding with detailed explanations for corrected answers.
 
-Tutorbots:
-Provide instant feedback by correcting wrong answers in real-time.
+3. Authentication System
+Secure and user-friendly login and sign-up functionality.
+Role-based access for students, educators, and admins.
 
-Authentication System:
-Secure login and sign-up functionality for users.
-
-In Development:
+4. In Development:
 Multilingual Capabilities:
-Expand support for quizzes and tutor interactions in multiple languages.
+Support quizzes and tutor interactions in multiple languages to reach a global audience.
+Gamified Learning:
+Introduce leaderboards, rewards, and badges to boost engagement.
+Analytics Dashboard:
+Track quiz performance, progress, and insights for both users and educators.
+Integration with Learning Platforms:
+Seamless connectivity with LMS systems for broader educational use.
+Collaborative Effort
+Quizzer is part of our MLSA AI Project, emphasizing teamwork and innovation. It demonstrates how AI can revolutionize education by fostering active learning and inclusivity.
 
-Additional enhancements to improve user experience and accessibility.
-
-Quizzer is built to revolutionize learning and assessment by integrating cutting-edge AI technologies with user-friendly features.
+Demo & Pitch Deck
+Explore our pitch deck and experience Quizzer in action through the demo link provided: [(https://drive.google.com/drive/folders/1bmKEOCat3q1pkQXcpZbQBiaS_MZo0l1y?usp=drive_link)](https://drive.google.com/drive/folders/1bmKEOCat3q1pkQXcpZbQBiaS_MZo0l1y?usp=drive_link)
