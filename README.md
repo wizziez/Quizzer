@@ -35,4 +35,4 @@ Seamless connectivity with LMS systems for broader educational use.
 Quizzly is part of our MLSA AI Project, emphasizing teamwork and innovation. It demonstrates how AI can revolutionize education by fostering active learning and inclusivity.
 
 Demo & Pitch Deck
-Explore our pitch deck and experience Quizzer in action through the demo link provided: [(https://drive.google.com/drive/folders/1bmKEOCat3q1pkQXcpZbQBiaS_MZo0l1y?usp=drive_link)](https://drive.google.com/drive/folders/1bmKEOCat3q1pkQXcpZbQBiaS_MZo0l1y?usp=drive_link)
+Explore our pitch deck and experience Quizzer in action through the demo link provided: https://drive.google.com/drive/folders/1cjhafqYbOtPXynMi2z72troNydWw0oJn?usp=drive_link
